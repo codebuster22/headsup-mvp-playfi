@@ -1,0 +1,1 @@
+(self.webpackChunkheadsup_mvp_playfi=self.webpackChunkheadsup_mvp_playfi||[]).push([[9466,4147],{7790:()=>{},5340:()=>{},9838:()=>{}}]);
