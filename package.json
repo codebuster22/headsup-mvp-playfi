@@ -1,8 +1,8 @@
 {
-  "name": "demo-frontend",
+  "name": "headsup-mvp-playfi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://headsup-game.github.io/headsup-demo",
+  "homepage": "https://codebuster22.github.io/headsup-mvp-playfi",
   "dependencies": {
     "@rainbow-me/rainbowkit": "^2.1.5",
     "@tanstack/react-query": "^5.52.0",
